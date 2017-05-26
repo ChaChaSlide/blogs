@@ -21,7 +21,7 @@ body {
 => this will change the background of your website.
  
 {% endhighlight %}
-	testing terminal merge
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
