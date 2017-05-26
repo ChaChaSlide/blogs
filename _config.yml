@@ -18,7 +18,7 @@ email: chachaslide20@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This will be a blog series about the web dev bootcamp at Awesome.inc.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://ChaChaBlogs.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chachaslide20 (when i make one :) )
 github_username:  chachaslide
 facebook_username: Cha'Sed Miller
