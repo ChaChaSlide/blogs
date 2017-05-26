@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Hello, my name is Cha'Sed Miller, yes i know its weird, i am a 23 year old college graduate working to do what i love with who i love. I LOVE the sport of lacrosse i've played it for 9 years including 4 years of college experience at St.Andrews University.
 
-![In the white and blue](/images/Lacrosse Photo.jpg)
+![In the white and blue](images/Lacrosse Photo.jpg)
 
 
 
