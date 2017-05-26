@@ -1,2 +1,0 @@
-# Chasedmiller.github.io
-blog
