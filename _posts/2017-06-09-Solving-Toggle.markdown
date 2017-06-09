@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Solving a Toggle"
-date:   2017-06-09 08:19: -0400
+date:   2017-06-09 08:19:00 -0400
 categories: jekyll update
 ---
 The definition of toggle is a key or command that changes between two different modes, such as the caps lock key.
