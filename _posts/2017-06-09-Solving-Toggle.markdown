@@ -9,7 +9,7 @@ The definition of toggle is a key or command that changes between two different 
 One of the problems i had this week was to define a simple toggle in Angular.Js. i was thinking the exact same thing that you were "Well that sounds freaking easy"..yeah it does. Until you start passing the wrong argument through the function that looks 100% right and sit there for an hour smashing your face on the keyboard.
 
 
-![Keyboard](https://media.giphy.com/media/2c4LO1c3PAiDm/giphy.gif){class="img-resposive col-md-4"}
+![Keyboard](https://media.giphy.com/media/2c4LO1c3PAiDm/giphy.gif){class="img-responsive col-md-4"}
 
 
 The best way i can explain this, is by showing you 2 different codes.
