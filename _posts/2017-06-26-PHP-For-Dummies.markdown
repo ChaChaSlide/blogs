@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PHP For Dummies"
-date:   2017-06-26 11:59:30 -0400
+date:   2017-06-26 08:59:30 -0400
 categories: jekyll update
 ---
 Thank you all for continuing to keep up and follow along with me through this bootcamp. This week
